@@ -37,5 +37,6 @@ The dashboard includes interactive filters for:
 This dashboard facilitates detailed insights into sales trends, category performance, and profit distribution, enhancing decision-making and providing actionable business intelligence.
 
 ## Screenshot
-![Dashboard Screenshot](Screenshot 2024-10-30 204914.png)
+![Dashboard Screenshot](Business-Analysis-Dashboard
+/Screenshot 2024-10-30 204914.png)
 
